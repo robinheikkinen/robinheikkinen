@@ -6,6 +6,7 @@
 
 ### 🏗️ My Infrastructure & Projects
 * **Live Project:** Mitt personliga CV-projekt snurrar på **[otbdev.se](https://otbdev.se)**.
+*Flyttat detta projekt från self-hosted till digital ocean droplet!*
 * **The Lab:** Kör en **Proxmox**-miljö för virtualisering samt **Unraid** för lagring och applikationer.
 * **Containers:** Deployar tjänster med **Podman** och **Docker** på **RHEL (Red Hat Enterprise Linux)** och testar olika miljöer! 
 * **Dashboard:** Håller på att bygga på en dashboard för att lättare kunna hitta material för labs.
