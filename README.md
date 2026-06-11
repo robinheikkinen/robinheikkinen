@@ -8,7 +8,8 @@
 * **Live Project:** Mitt personliga CV-projekt snurrar på **[otbdev.se](https://otbdev.se)**.
 * **The Lab:** Kör en **Proxmox**-miljö för virtualisering samt **Unraid** för lagring och applikationer.
 * **Containers:** Deployar tjänster med **Podman** och **Docker** på **RHEL (Red Hat Enterprise Linux)** och testar olika miljöer! 
-* **Dashboard:** Håller på att få till en labb dashboard för att lära mig lättare! 
+* **Dashboard:** Håller på att bygga på en dashboard för att lättare kunna hitta material för labs.
+* **Skaffio:** Håller på med claude för att hjälpa till med strukturen kring matlagning och recept. För att lättare och med hjälp av AI skapa maträtter. 
 
 ### 🎯 Roadmap & Certification Goals
 **Långsiktig plan:**
