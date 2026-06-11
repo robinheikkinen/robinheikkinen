@@ -1,4 +1,4 @@
-# Hej, jag är Robin! aka Hajken, aka Dykarn 👋
+# Hej! 
 
 ### 🚀 DevOps Engineer Student @ Lernia YH
 Jag studerar för att bemästra bryggan mellan kod och stabil infrastruktur. Driver ett aktivt HomeLab för att omsätta teori från utbildningen till praktisk erfarenhet.
@@ -13,16 +13,12 @@ Resan började med en **Raspberry Pi** och har växt till en miljö med **Debian
 * **Containers:** Deployar tjänster med **Podman** och **Docker** på **RHEL (Red Hat Enterprise Linux)** och testar olika miljöer! 
 
 ### 🎯 Roadmap & Certification Goals
-I utbildningen fokuserar vi just nu på molnleverantörer som **Azure**, **AWS** och **GCP**, då vi är inne på *Molnteknologi*.
-
 **Långsiktig plan:**
 * **Certifieringar:** Studerar mot **RHCSA** (Red Hat Certified System Administrator) och fördjupar mig i nätverksteknik inför **CompTIA Network+**.
 * **Cloud Journey:** Följer **Learn to Cloud**-guiden för att förstå molninfrastruktur från grunden parallellt med studierna.
 * **Scripting & Automation:** Övar dagligen för att bli tryggare i **Bash** och **Python** för att automatisera serverdrift.
 * **Version Control:** Håller på att lära mig **Git & GitHub** för att hantera kod och infrastruktur "the DevOps way".
-
 ---
-
 ### 🧰 Tech Stack (Hands-on)
 `RHEL / Fedora / Unraid` | `Podman & Docker` | `Proxmox` | `Linux Administration`
 
