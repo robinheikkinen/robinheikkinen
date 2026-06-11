@@ -1,9 +1,6 @@
 # Hej! 
 
 ### 🚀 DevOps Engineer Student @ Lernia YH
-Jag studerar för att bemästra bryggan mellan kod och stabil infrastruktur. Driver ett aktivt HomeLab för att omsätta teori från utbildningen till praktisk erfarenhet.
-
-Resan började med en **Raspberry Pi** och har växt till en miljö med **Debian**, **Fedora** och **Proxmox/Unraid** för att även köra **Red Hat Enterprise Linux**.
 
 ---
 
@@ -11,6 +8,7 @@ Resan började med en **Raspberry Pi** och har växt till en miljö med **Debian
 * **Live Project:** Mitt personliga CV-projekt snurrar på **[otbdev.se](https://otbdev.se)**.
 * **The Lab:** Kör en **Proxmox**-miljö för virtualisering samt **Unraid** för lagring och applikationer.
 * **Containers:** Deployar tjänster med **Podman** och **Docker** på **RHEL (Red Hat Enterprise Linux)** och testar olika miljöer! 
+* **Dashboard:** Håller på att få till en labb dashboard för att lära mig lättare! 
 
 ### 🎯 Roadmap & Certification Goals
 **Långsiktig plan:**
