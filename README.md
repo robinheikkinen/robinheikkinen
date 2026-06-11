@@ -9,7 +9,7 @@
 * **The Lab:** Kör en **Proxmox**-miljö för virtualisering samt **Unraid** för lagring och applikationer.
 * **Containers:** Deployar tjänster med **Podman** och **Docker** på **RHEL (Red Hat Enterprise Linux)** och testar olika miljöer! 
 * **Dashboard:** Håller på att bygga på en dashboard för att lättare kunna hitta material för labs.
-* **Skaffio:** Håller på med claude för att hjälpa till med strukturen kring matlagning och recept. För att lättare och med hjälp av AI skapa maträtter. 
+* **Skaffio:** Har tillsammans med Claude code tagit fram en app för att hjälpa till i familjelivet, varddagen med maträtter och matlagning. 
 
 ### 🎯 Roadmap & Certification Goals
 **Långsiktig plan:**
