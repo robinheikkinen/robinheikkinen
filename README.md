@@ -5,12 +5,12 @@
 ---
 
 ### 🏗️ My Infrastructure & Projects
-* **Live Project:** Mitt personliga CV-projekt snurrar på **[otbdev.se](https://otbdev.se)**.
+* **Live Project:** Mitt personliga CV-projekt snurrar på **[robinheikkinen.me](https://robinheikkinen.me)**.
 *Flyttat detta projekt från self-hosted till digital ocean droplet!*
 * **The Lab:** Kör en **Proxmox**-miljö för virtualisering samt **Unraid** för lagring och applikationer.
 * **Containers:** Deployar tjänster med **Podman** och **Docker** på **RHEL (Red Hat Enterprise Linux)** och testar olika miljöer! 
 * **Dashboard:** Håller på att bygga på en dashboard för att lättare kunna hitta material för labs.
-* **Skaffio:** Har tillsammans med Claude code tagit fram en app för att hjälpa till i familjelivet, varddagen med maträtter och matlagning. 
+* **Skaffio:** Har tillsammans med Claude code tagit fram en app för att hjälpa till i familjelivet, varddagen med maträtter och matlagning. **[Skaffio.app](https://Skaffio.app)**.
 
 ### 🎯 Roadmap & Certification Goals
 **Långsiktig plan:**
@@ -23,7 +23,7 @@
 `RHEL / Fedora / Unraid` | `Podman & Docker` | `Proxmox` | `Linux Administration`
 
 ### 📫 Connect with me
-* **Webb:** [otbdev.se](https://otbdev.se)
+* **Webb:** [robinheikkinen.me](https://robinheikkinen.me)
 * **LinkedIn:** [linkedin.com/in/robinheikkinen](https://www.linkedin.com/in/robinheikkinen/)
 * **Email:** [robin.heikkinen@gmail.com](mailto:robin.heikkinen@gmail.com)
 
